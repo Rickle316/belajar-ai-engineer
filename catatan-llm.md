@@ -1,0 +1,1 @@
+LLM merupakan metode yang menggunakan kata/teks yang banyak. untuk setiap prompt yang digunakan akan diprediksi teks/kata berikutnya. dari hasil prediksi ini lah maka muncul kelebihannya meski juga terdapat keterbatasan.
